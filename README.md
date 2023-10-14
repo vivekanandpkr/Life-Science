@@ -21,5 +21,4 @@ Gene - At1g58602
 Source organism - Arabidopsis thaliana (Mouse-ear cress)
 Refer Sample PDB File
 
-
-![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/b40e174f-9ead-4cec-81a2-1989415ab6e3)
+![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/8ff6571a-d7b8-4a88-bcb2-643b1977707e)
