@@ -54,4 +54,7 @@ ATOM: This line represents an atom in the molecule.
 - N: Element symbol (in this case, nitrogen)..
 
 
+Source: Alphafold. 
+Licence and attribution
+Data is available for academic and commercial use, under a CC-BY-4.0 licence.
 
