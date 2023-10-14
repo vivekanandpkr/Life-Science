@@ -7,3 +7,4 @@ Some of the platforms & relavant databases:
 - AlphaFold Databases (https://alphafold.ebi.ac.uk/)
 - EMBL (https://www.embl.org/)
 - RasTop
+- Protein Data Bank (eg. 1a1a)
