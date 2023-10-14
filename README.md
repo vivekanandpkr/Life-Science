@@ -46,7 +46,7 @@ A: Chain identifier (a protein can consist of multiple chains, and each chain is
 -9.212, -5.798, 33.490: X, Y, and Z coordinates of the atom's position in space.
 1.00: Occupancy (typically set to 1.00).
 63.75: Temperature factor (also known as B-factor, which represents the thermal motion of the atom).
-N: Element symbol (in this case, nitrogen).
+N: Element symbol (in this case, nitrogen)..
 
 
 
