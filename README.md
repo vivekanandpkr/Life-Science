@@ -37,16 +37,15 @@ Protein Data Bank (PDB) format which is commonly used to represent the three-dim
 MODEL 1: This line indicates that you are looking at the first model in the PDB file. In some cases, a structure might have multiple models to represent different conformations or snapshots of the molecule.
 
 ATOM: This line represents an atom in the molecule.
-
-1: Atom serial number.
-N: Atom name (in this case, it's the nitrogen atom).
-MET: The amino acid or molecule to which the atom belongs (in this case, it's methionine).
-A: Chain identifier (a protein can consist of multiple chains, and each chain is assigned a letter).
-1: Residue sequence number (position of the amino acid in the chain).
--9.212, -5.798, 33.490: X, Y, and Z coordinates of the atom's position in space.
-1.00: Occupancy (typically set to 1.00).
-63.75: Temperature factor (also known as B-factor, which represents the thermal motion of the atom).
-N: Element symbol (in this case, nitrogen)..
+- 1: Atom serial number.
+- N: Atom name (in this case, it's the nitrogen atom).
+- MET: The amino acid or molecule to which the atom belongs (in this case, it's methionine).
+- A: Chain identifier (a protein can consist of multiple chains, and each chain is assigned a letter).
+- 1: Residue sequence number (position of the amino acid in the chain).
+- 9.212, -5.798, 33.490: X, Y, and Z coordinates of the atom's position in space.
+- 1.00: Occupancy (typically set to 1.00).
+- 63.75: Temperature factor (also known as B-factor, which represents the thermal motion of the atom).
+- N: Element symbol (in this case, nitrogen)..
 
 
 
