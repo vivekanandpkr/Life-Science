@@ -18,15 +18,16 @@ AlphaFold (Example Molecule View):
 - Gene : At1g58602 (This is the unique identifier for the gene that codes for the mentioned protein. Genes are like instruction manuals for building proteins in living organisms.)
 - Source organism : Arabidopsis thaliana (Mouse-ear cress) (Arabidopsis thaliana is a small flowering plant commonly used in scientific research. It's often referred to as Mouse-ear cress. In this case, it's the organism from which both the gene and protein originate.)
 
-  Plant: (Arabidopsis thaliana)
-  
-  ![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/83523122-94fa-4140-a708-03ee4bd11b4b)
 
 
 Refer Sample PDB File 
 (Source: AlphaFold)
 
 ![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/8ff6571a-d7b8-4a88-bcb2-643b1977707e)
+
+  Plant: (Arabidopsis thaliana)
+  
+  ![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/83523122-94fa-4140-a708-03ee4bd11b4b)
 
 
 How to read this file content  ?
