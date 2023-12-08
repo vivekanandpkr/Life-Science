@@ -1,6 +1,6 @@
 
-AI guided Articles: 
 # Life-Science
+It's an AI guided article:
 To understand sequence analysis &amp; phylogenetic and few more life science applications.
 
 
@@ -63,7 +63,9 @@ Data is available for academic and commercial use, under a CC-BY-4.0 licence.
 
 
 
-Slightly different scope here but healthcare related, we can also analyse the physicians availability per country as per WHO, available below: (Embedded & hosted from Tableau Public directly, created and submitted for Tableau IronViz  competitions 2022-2021 on Healthcare Challenges)
+Slightly different scope here but healthcare related, we can also analyse the physicians availability per country as per WHO, available below: (Embedded & hosted from Tableau Public directly)
+
+Created and submitted for Tableau IronViz  visualizations competitions 2022-2021 on Healthcare Challenges)
 
 <div class='tableauPlaceholder' id='viz1697400978283' style='position: relative'><noscript><a href='#'><img alt='Global Race For Vaccine ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalRaceForVaccine&#47;GlobalRaceForVaccine&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalRaceForVaccine&#47;GlobalRaceForVaccine' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalRaceForVaccine&#47;GlobalRaceForVaccine&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
 
