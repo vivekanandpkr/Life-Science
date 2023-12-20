@@ -25,7 +25,7 @@ AlphaFold (Example Molecule View):
 Refer Sample PDB File 
 (Source: AlphaFold)
 
-![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/8ff6571a-d7b8-4a88-bcb2-643b1977707e)
+![image](https://github.com/vivekanandpkr/Life-Science/assets/21027388/fb884523-ea88-4ca5-9e75-b6497a53be68)
 
   Plant: (Arabidopsis thaliana)
   
